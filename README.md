@@ -32,3 +32,10 @@ $ git clone git@github.com:AndrewAnnex/SpiceyPy.git
 $ cd SpiceyPy
 $ python setup.py install
 ```
+
+The simply download or clone this repository and run the Python script, e.g.
+```
+$ git clone git@github.com:barentsen/earth-state-vector.git
+$ cd earth-state-vector
+$ python earth-state-vector.py 2015-11-13T09:43:00
+```
