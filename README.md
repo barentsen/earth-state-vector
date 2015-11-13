@@ -6,7 +6,10 @@ A little tool intended to demonstrate the use of SPICE, through the [SpiceyPy Py
 ### Example use
 ```
 $ python earth-state-vector.py 2015-11-13T09:43:00
+```
 
+Output:
+```
 Input time = 2015-11-13T09:43:00
 
 # Position of the Earth in the heliocentric ecliptic (J2000) frame
@@ -33,7 +36,7 @@ $ cd SpiceyPy
 $ python setup.py install
 ```
 
-The simply download or clone this repository and run the Python script, e.g.
+Then simply download or clone this repository and run the Python script, e.g.
 ```
 $ git clone git@github.com:barentsen/earth-state-vector.git
 $ cd earth-state-vector
