@@ -2,7 +2,7 @@
 """
 from __future__ import print_function  # Needed for Python 2 compatibility
 import sys
-import spiceypy.wrapper as sp
+import spiceypy as sp
 
 # These data files were obtained from
 # http://naif.jpl.nasa.gov/pub/naif/generic_kernels
